@@ -1,1 +1,1 @@
-console.log("prueba")
+console.log(("tengo el total de la cena q es 120 y las bebidas a las q yo invito son 18 de ese total, con lo cual pago")+(18/6)+("por cada uno de mis amigos .la cuenta sin las bebidas quedaria")+(120-18)+("con lo q al final cada uno debera pagar")+(102/6))
